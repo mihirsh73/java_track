@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class loops {
+public class loops {
+    public  void main()
+    {
+        System.out.println("hello");
+    }
+
 }
